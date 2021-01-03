@@ -41,6 +41,7 @@ https://quote-api.zhirrr.repl.co
 
 # Parameters :
 /api/v1/quote - for entire Quotes data in JSON.
+
 /api/v1/quote/random - for random (single) Quotes data in JSON.
 
 
@@ -50,18 +51,31 @@ https://samehadaku-api.zhirrr.repl.co
 # Parameters :
 
 /page/{page}.  <== homepage-pagination
+
 /blog. <== blog
+
 /blog/{page}. <== blog-pagination
+
 /blog/read/{id}>	<== read blog
+
 /anime/{id}. <== detail anime
+
 /anime/eps/{link}. <== detail anime's eps
+
 /search/{title}/{page}. <== search anime
+
 /season. <== list anime of this season
+
 /date-release. <== anime release date
+
 /list-anime/{page}. <== list of all anime
+
 /blog-category/{category}/{page}. <== list items of category
+
 /tag/{tag}. <== list items of tag
+
 /daftar-genre. <== genre list
+
 /genre/{id}.	  <== show anime by genre
 
 
