@@ -86,5 +86,44 @@ https://anime-api.zhirrr.repl.co/api/v2
 
 https://anime-api.zhirrr.repl.co/api/v3
 
+
+# Sumber Anime API Scrape
+https://aruppi.jeluchu.xyz/
+
+https://animeflv.net/
+
+https://jkanime.net/ 
+
+https://aruppi.jeluchu.xyz/apis/animeflv/v1/ 
+
+https://aruppi.jeluchu.xyz/apis/youtube/v3/search?channelId= 
+
+https://aruppi.jeluchu.xyz/apis/jikan/v3/ 
+
+https://www.ivoox.com/podcast-anitakume_fg_f1660716_filtro_1.xml 
+
+https://somoskudasai.com/feed/ 
+
+https://elpalomitron.com/category/animemanga/feed/ 
+
+https://ramenparados.com/category/noticias/anime/feed/ 
+
+https://www.crunchyroll.com/newsrss?lang=esES
+
+https://jkanime.net/buscar/ 
+
+https://animeflv.net/browse? 
+
+https://animeflv.net/browse?order=title&page= 
+
+https://cdn.animeflv.net/screenshots/ 
+
+https://api.qwant.com/search/images? 
+
+https://reddit.com/r/AnimeThemes/wiki/
+
+https://themes.moe/api/
+
+
 # Parameters?
 Di Dalam Api Nya Ya 😇
