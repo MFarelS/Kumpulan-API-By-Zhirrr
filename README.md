@@ -16,7 +16,7 @@ https://quran-api.zhirrr.repl.co/surah/1 <== Mencari Data Al Qur'an Full 30 Juz 
 
 https://bmkg-api.zhirrr.repl.co/api/cuaca  <== Cuaca Random Seluruh Provinsi Indonesia
 
-https://bmkg-api.zhirrr.repl.co/api/cuaca/[Nama Provinsi]  <== Mencari Data Cuaca Dengan Nama Provinsi
+https://bmkg-api.zhirrr.repl.co/api/cuaca/ [Nama Provinsi]  <== Mencari Data Cuaca Dengan Nama Provinsi
 
 https://bmkg-api.zhirrr.repl.co/api/cuaca/dunia <== Mencari Data Cuaca Seluruh Dunia
 
@@ -81,7 +81,9 @@ https://samehadaku-api.zhirrr.repl.co
 
 # Anime Random Scraper Web API :
 https://anime-api.zhirrr.repl.co/api
+
 https://anime-api.zhirrr.repl.co/api/v2
+
 https://anime-api.zhirrr.repl.co/api/v3
 
 # Parameters?
