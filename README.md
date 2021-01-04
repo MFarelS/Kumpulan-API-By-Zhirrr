@@ -192,3 +192,9 @@ https://api-fb.zhirrr.repl.co
 
 # Parameters?
 Ada Di Dalem Mank 😇
+
+
+# Covid 19 API :
+https://covid19-api.zhirrr.repl.co/api/world  <== Menampilkan Data Covid 19 Diseluruh Dunia
+
+https://covid19-api.zhirrr.repl.co/api/covid-indonesia <== Menampilkan Data Covid 19 Diseluruh Indonesia
