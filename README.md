@@ -198,3 +198,10 @@ Ada Di Dalem Mank 😇
 https://covid19-api.zhirrr.repl.co/api/world  <== Menampilkan Data Covid 19 Diseluruh Dunia
 
 https://covid19-api.zhirrr.repl.co/api/covid-indonesia <== Menampilkan Data Covid 19 Diseluruh Indonesia
+
+
+# Unofficial Github API :
+https://github-api.zhirrr.repl.co
+
+# Parameters?
+Ada Di Dalem Mank 😇
