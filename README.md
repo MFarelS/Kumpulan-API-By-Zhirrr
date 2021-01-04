@@ -188,7 +188,7 @@ Schedule: /api/v3/schedule/:day
 
 
 # Facebook API : 
-api-fb.zhirrr.repl.co
+https://api-fb.zhirrr.repl.co
 
 # Parameters?
 Ada Di Dalem Mank 😇
