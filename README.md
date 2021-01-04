@@ -185,3 +185,10 @@ Schedule: /api/v3/schedule/:day
         Legal Platforms: /api/v3/platforms/:id?
 
         Platforms Details: /api/v3/profilePlatform/:id
+
+
+# Facebook API : 
+api-fb.zhirrr.repl.co
+
+# Parameters?
+Ada Di Dalem Mank 😇
