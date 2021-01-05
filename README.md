@@ -219,8 +219,8 @@ Ada Di Dalem Mank 😇
 
 # Api Hadits-Hadits :
 
-https://hadits-api.zhirrr.repl.co/books <== mengembalikan list buku hadits yg tersaji.
+https://hadits-api-zhirrr.vercel.app/books <== mengembalikan list buku hadits yg tersaji.
 
-https://hadits-api.zhirrr.repl.co/books/muslim?range=1-150  <== mengembalikan hadits menggunakan rentang nomor. (Catatan: untuk kinerja lebih baik, kisaran maksimum: 300)
+https://hadits-api-zhirrr.vercel.app/books/muslim?range=1-150  <== mengembalikan hadits menggunakan rentang nomor. (Catatan: untuk kinerja lebih baik, kisaran maksimum: 300)
 
-https://hadits-api.zhirrr.repl.co/books/bukhari/52 <== mengembalikan hadits tertentu
+https://hadits-api-zhirrr.vercel.app/books/bukhari/52 <== mengembalikan hadits tertentu
