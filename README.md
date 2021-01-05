@@ -215,3 +215,12 @@ https://github-api.zhirrr.repl.co
 
 # Parameters?
 Ada Di Dalem Mank 😇
+
+
+# Api Hadits-Hadits :
+
+https://hadits-api.zhirrr.repl.co/books <== mengembalikan list buku hadits yg tersaji.
+
+https://hadits-api.zhirrr.repl.co/books/muslim?range=1-150  <== mengembalikan hadits menggunakan rentang nomor. (Catatan: untuk kinerja lebih baik, kisaran maksimum: 300)
+
+https://hadits-api.zhirrr.repl.co/books/bukhari/52 <== mengembalikan hadits tertentu
