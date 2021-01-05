@@ -11,6 +11,16 @@ https://quran-api.zhirrr.repl.co <== Mencari Data List Surah Al Qur'an Full 114 
 Full Ayat Al Qur'an Surah 1 - 114 + Tafsir
 https://quran-api.zhirrr.repl.co/surah/1 <== Mencari Data Al Qur'an Full 30 Juz + Tafsir Per Surah Nya
 
+
+# Api Al-Qur'an V2 :
+https://quran-api-v2.zhirrr.repl.co
+
+https://quran-api-v2.zhirrr.repl.co/surah <== Menampilkan Data List Surah Dalam Al Qur'an + Tafsir Per Surah Nya
+
+https://quran-api-v2.zhirrr.repl.co/surah/ {surah} <== Menampilkan Data Surah Al Qur'an Berdasarkan Nomor Surah + Tafsir + Audio
+
+https://quran-api-v2.zhirrr.repl.co/surah/ {surah}/ {ayat}  <== Menampilkan Data Surah Al Qur'an Berdasarkan Surah Dan Nomor Ayat + Tafsir + Audio
+
 # Api BMKG FULL
 # Cuaca :
 
@@ -205,13 +215,3 @@ https://github-api.zhirrr.repl.co
 
 # Parameters?
 Ada Di Dalem Mank 😇
-
-
-# Api Al-Qur'an V2 :
-https://quran-api-v2.zhirrr.repl.co
-
-https://quran-api-v2.zhirrr.repl.co/surah <== Menampilkan Data List Surah Dalam Al Qur'an + Tafsir Per Surah Nya
-
-https://quran-api-v2.zhirrr.repl.co/surah/ {surah} <== Menampilkan Data Surah Al Qur'an Berdasarkan Nomor Surah + Tafsir + Audio
-
-https://quran-api-v2.zhirrr.repl.co/surah/ {surah}/ {ayat}  <== Menampilkan Data Surah Al Qur'an Berdasarkan Surah Dan Nomor Ayat + Tafsir + Audio
